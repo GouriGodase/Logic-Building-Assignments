@@ -8,7 +8,7 @@ void pattern(int iRow ,int iCol)
     {
         for(j = 1; j <= iCol; j++)
         {
-            printf("%d\t",j);
+            printf("%d\t",i);
     
         } 
             printf("\n");
